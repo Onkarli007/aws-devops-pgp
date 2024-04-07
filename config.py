@@ -1,7 +1,7 @@
 custombucket = "onkar007"
 table = "intellipaat"
 databasehost = "database-1.ctcose6k2ra1.us-east-1.rds.amazonaws.com"
-duser = "admin"
+duser = "intel"
 dpass = "Onkar16079902"
 s3database = "intellipaat"
 kapp = "http://10.110.13.49:80"
